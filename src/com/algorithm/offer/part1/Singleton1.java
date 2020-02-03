@@ -9,7 +9,6 @@ package com.algorithm.offer.part1;
 public class Singleton1 {
     private static final Singleton1 INSTANCE = new Singleton1();
     private Singleton1(){
-
     }
     public Singleton1 getInstance(){
         return INSTANCE;
