@@ -6,12 +6,12 @@ package com.algorithm.offer.part1;
  * @Author meimingzhi
  * @Date 2020/2/3 5:13 下午
  */
-public class Singleton {
-    private static final Singleton INSTANCE = new Singleton();
-    private Singleton (){
+public class Singleton1 {
+    private static final Singleton1 INSTANCE = new Singleton1();
+    private Singleton1(){
 
     }
-    public Singleton getInstance(){
+    public Singleton1 getInstance(){
         return INSTANCE;
     }
 }
