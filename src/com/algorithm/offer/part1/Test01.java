@@ -1,13 +1,14 @@
 package com.algorithm.offer.part1;
 
 /**
+ * 《剑指offer》第二题
  * @ClassName Singleton
  * @Description 单例模式
  * 参考：https://blog.csdn.net/mnb65482/article/details/80458571
  * @Author meimingzhi
  * @Date 2020/2/11 5:05 下午
  */
-public class Singleton {
+public class Test01 {
     /**
      * 饿汉式
      */
